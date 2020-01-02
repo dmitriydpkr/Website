@@ -1,2 +1,3 @@
 .idea
 venv/
+\blogengine\blogengine\__pycache__
